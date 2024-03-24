@@ -5,6 +5,10 @@ import {
   Scripts,
   ScrollRestoration,
 } from "@remix-run/react";
+import { MantineProvider } from "@mantine/core";
+
+import "@mantine/core/styles.css";
+import "@mantine/dates/styles.css";
 
 export function Layout({ children }: { children: React.ReactNode }) {
   return (
@@ -16,7 +20,7 @@ export function Layout({ children }: { children: React.ReactNode }) {
         <Links />
       </head>
       <body>
-        {children}
+        <MantineProvider>{children}</MantineProvider>
         <ScrollRestoration />
         <Scripts />
       </body>
