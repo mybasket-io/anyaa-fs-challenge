@@ -4,6 +4,20 @@
 
 ## Development
 
+Setup your environment:
+
+Copy the `.env.example` file to `.env`:
+
+```shellscript
+cp .env.example .env
+```
+
+Install dependencies:
+
+```shellscript
+npm install
+```
+
 Run the Vite dev server:
 
 ```shellscript

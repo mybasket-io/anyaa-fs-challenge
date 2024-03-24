@@ -57,6 +57,19 @@
 5. **Testing**: Are unit tests provided for critical functionality?
 6. **Documentation**: Are setup instructions and API documentation provided?
 
+## Submitting Your Solution
+
+Once you have completed the challenge, please follow these steps to submit your solution:
+
+1. Create a new repository on your GitHub account.
+2. Push your local repository to your GitHub repository using the following commands:
+   1. `git remote add origin https://github.com/your-username/your-repository.git`
+   2. `git push -u origin main`
+3. Ensure that your repository is public and accessible.
+4. Send the link to your repository to the hiring team for review.
+
+We will review your solution and provide feedback. If you have any questions or need assistance, please don't hesitate to reach out.
+
 ## Notes
 
 - The challenge focuses on the core functionality of managing user availability and scheduling meetings.
