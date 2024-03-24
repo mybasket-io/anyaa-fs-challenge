@@ -10,6 +10,21 @@ Run the Vite dev server:
 npm run dev
 ```
 
+### Prisma
+
+This template includes Prisma for database access.
+When updating your `prisma/schema.prisma`, you'll need to run:
+
+```shellscript
+npm run generate
+```
+
+To view the Prisma Studio, run:
+
+```shellscript
+npx prisma studio
+```
+
 ## Deployment
 
 First, build your app for production:
