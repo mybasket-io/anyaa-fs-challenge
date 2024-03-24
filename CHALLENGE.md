@@ -13,6 +13,8 @@
 - Allow users to define their available time slots for meetings.
 - Support setting availability on a weekly basis (e.g., available every Monday and Wednesday from 2 PM to 4 PM).
 
+<img src="https://github.com/mybasket-io/anyaa-fs-challenge/blob/main/docs/availability.png?raw=true" alt="User availability management" width="600">
+
 ### 2. Meeting scheduling
 
 - Display a user's available date and time slots on their public profile page.
@@ -20,9 +22,15 @@
 - Collect necessary information from the meeting requestor (name, email, meeting purpose).
 - Store the scheduled meeting details in the database.
 
+<img src="https://github.com/mybasket-io/anyaa-fs-challenge/blob/main/docs/book.png?raw=true" alt="User availability management" width="600">
+
 ### 3. Meeting management
 
 - Allow users to view their scheduled meetings.
+  - List of:
+    - Meeting date and time
+    - Meeting purpose
+    - Requestor name and email
 
 ### 4. Booking conflict prevention
 
