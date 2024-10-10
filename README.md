@@ -1,5 +1,11 @@
 # tkana's Full Stack Challenge
 
+Welcome to tkana's Full Stack Challenge.
+
+Instructions for this challenge can be found in the [CHALLENGE.md](https://github.com/mybasket-io/fs-challenge/blob/main/CHALLENGE.md) file.
+
+## Documentation
+
 📖 See the [Remix docs](https://remix.run/docs) and the [Remix Vite docs](https://remix.run/docs/en/main/future/vite) for details on supported features.
 
 ## Development
