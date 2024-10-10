@@ -1,4 +1,4 @@
-# Anyaa's Full Stack Challenge
+# tkana's Full Stack Challenge
 
 📖 See the [Remix docs](https://remix.run/docs) and the [Remix Vite docs](https://remix.run/docs/en/main/future/vite) for details on supported features.
 
